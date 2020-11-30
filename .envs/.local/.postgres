@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=cafekafen_api
+POSTGRES_USER=AGyEGGJnHGrkRcofqmOKlMGhEtnWCtIs
+POSTGRES_PASSWORD=sa0fgiMuOqgYr8GMTneDcJPdDYRjbxKZeGE9XqiuK8nM6CIlvH1TOQEJv9zCJ4Zf
